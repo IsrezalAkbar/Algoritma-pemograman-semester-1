@@ -90,3 +90,11 @@ syntax adalah bagian terpenting dari sebuah program,dalam mempogram sesuatu synt
 main funtion
 Satu-satunya perintah yang harus ada di setiap kode program bahasa C adalah main(). Struktur main() sendiri pada dasarnya merupakan sebuah fungsi (function). Isi dari function ini diawali dan diakhiri dengan tanda kurung kurawal { dan } . Di dalam tanda kurung inilah “statement” dari kode program penyusun fungsi main() ditulis. Fungsi main() adalah fungsi utama dalam program. Fungsi ini akan dieksekusi pertamakali saat program dijalankan. Karena itu, kita harus menuliskan logika program di dalam fungsi ini. maka dari itu main funtion sangat penting dalam pemograman terutama dalam bahasa c tidak ada main maka program tidak akan berjalan
 
+Di baris paling awal, terdapat kode #include. Perintah #include digunakan untuk memasukkan sebuah file khusus yang memungkinkan untuk mengakses berbagai fitur tambahan dalam bahasa C. #include berfungsi untuk mengimpor fungsi-fungsi yang sudah didefinisikan pada header file. Header file adalah file yang berisi definisi fungsi yang sudah dibuat. Tujuannya agar bisa digunakan pada program C yang lainnya. File ini berekstensi .h, contoh: stdio.h. Pada contoh di atas, kita mengimpor file stdio.h. File ini berisi deklarasi fungsi-fungsi dasar yang kita butuhkan untuk membuat program C, seperti printf().
+
+# jobsheet 3
+
+pada jobsheet 3 ini saya mempelajari berbagai macam variabel seperti konstanta, dan integer
+
+variabel
+variabel adalah tempat untuk menyimpan data dan menggunakan istilah untuk memanggil kembali variabel yang sudah dituliskan.
