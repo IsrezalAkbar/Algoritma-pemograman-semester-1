@@ -80,5 +80,13 @@ bahasa pemograman
 Bahasa Pemrograman adalah instruksi standar untuk meminta sebuah komputer untuk menjalankan suatu fungsi tertentu. Bahasa pemrograman ini merupakan kumpulan aturan sintaks dan semantik yang dipakai untuk mendefinisikan program komputer. Sama halnya saat kita bercerita dengan orang lain maka perlu bahasa yang dapat dimengerti oleh kedua pihak yang 
 saling berkomunikasi. Setiap jenis bahasa pemrograman memiliki aturan penulisan dan sintaks tersendiri.
 
-jobsheet 2
+# jobsheet 2
+
+pada jobsheet 2 ini saya mempelajari syntax,main function,dan header files
+
+syntax
+syntax adalah bagian terpenting dari sebuah program,dalam mempogram sesuatu syntax adalah seperti jantung dalam sebuah codingan. tidak ada syntax maka sebuah codingan hanyalah kata kata yang tak berarti. Sederhananya, sintaksis adalah aturan menulis kode dalam sebuah bahasa pemrograman supaya lebih terstruktur sehingga dapat mencapai suatu tujuan.
+
+main funtion
+Satu-satunya perintah yang harus ada di setiap kode program bahasa C adalah main(). Struktur main() sendiri pada dasarnya merupakan sebuah fungsi (function). Isi dari function ini diawali dan diakhiri dengan tanda kurung kurawal { dan } . Di dalam tanda kurung inilah “statement” dari kode program penyusun fungsi main() ditulis. Fungsi main() adalah fungsi utama dalam program. Fungsi ini akan dieksekusi pertamakali saat program dijalankan. Karena itu, kita harus menuliskan logika program di dalam fungsi ini. maka dari itu main funtion sangat penting dalam pemograman terutama dalam bahasa c tidak ada main maka program tidak akan berjalan
 
