@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw0_ZGUOpFcDJgJAyhwyst4y&ust=1702655228697000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCK8Jqjj4MDFQAAAAAdAAAAABAD)"  />
+<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Ddeveloper%2Bcartoon&psig=AOvVaw0_ZGUOpFcDJgJAyhwyst4y&ust=1702655228697000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCK8Jqjj4MDFQAAAAAdAAAAABAD)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw0_ZGUOpFcDJgJAyhwyst4y&ust=1702655228697000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCK8Jqjj4MDFQAAAAAdAAAAABAI)"  />
 
 ###
 
