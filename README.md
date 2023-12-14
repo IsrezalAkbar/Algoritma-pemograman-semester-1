@@ -70,4 +70,15 @@ pemahaman materi
 
 jobsheet 1
 
-algoritma adalah sebuah program yang beraturan 
+algoritma 
+adalah sebuah program yang beraturan Algoritma adalah jantung ilmu komputer atau informatika. Banyak cabang 
+ilmu komputer yang di acu dalam terminologi algoritma. Namun, jangan beranggapan algoritma selalu identik dengan ilmu komputer saja. Dalam kehidupan sehari-hari pun banyak terdapat proses yang dinyatakan dalam suatu algoritma. contoh algoritma dalam kehidupan sehari-hari ialah seperti membuat kue,dan algoritmanya adalah masukkan telur kedalam wajan,dan kocok sampai mengembang.
+
+Pemrograman bisa diartikan sebuah tindakan atau aktivitas penulisan, menguji, memperbaiki, dan memelihara kode yang dipahami oleh komputer. Pemrograman adalah proses penulisan kode menjadi sebuah program. Dari sini kita dapat memahami dan membedakan antara pemrograman, bahasa pemrograman, program, programmer dan algoritma. Untuk melakukan pemrograman dibutuhkan algoritma dan bahasa pemrograman. Sementara orang yang melakukan pemrograman disebut dengan programmer, sedangkan program adalah produk dari proses pemrograman yang dilakukan.
+
+bahasa pemograman 
+Bahasa Pemrograman adalah instruksi standar untuk meminta sebuah komputer untuk menjalankan suatu fungsi tertentu. Bahasa pemrograman ini merupakan kumpulan aturan sintaks dan semantik yang dipakai untuk mendefinisikan program komputer. Sama halnya saat kita bercerita dengan orang lain maka perlu bahasa yang dapat dimengerti oleh kedua pihak yang 
+saling berkomunikasi. Setiap jenis bahasa pemrograman memiliki aturan penulisan dan sintaks tersendiri.
+
+jobsheet 2
+
