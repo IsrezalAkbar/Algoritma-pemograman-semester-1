@@ -68,7 +68,7 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 laporan pratikum algoritma pemograman
 pemahaman materi
 
-jobsheet 1
+# jobsheet 1
 
 algoritma 
 adalah sebuah program yang beraturan Algoritma adalah jantung ilmu komputer atau informatika. Banyak cabang 
