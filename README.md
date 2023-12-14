@@ -39,7 +39,7 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 <tr>
 <td>Nama</td>
 <td>Isrezal Akbar</td>
-<td rowspan="7"><img src="https://cdn.unp.ac.id/portal/23343041.jpg"> width="200"></td>
+<td rowspan="7"><img src="https://cdn.unp.ac.id/portal/23343041.jpg" width="200"></td>
 </tr>
 <tr>
 <td>Tempat/Tanggal Lahir</td>
@@ -63,3 +63,11 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 </body>
 </html>
 </html>
+
+
+laporan pratikum algoritma pemograman
+pemahaman materi
+
+jobsheet 1
+
+algoritma adalah sebuah program yang beraturan 
