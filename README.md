@@ -27,7 +27,6 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 <!DOCTYPE html>
 <html>
 <head>
-<title>Cara Membuat Tabel Biodata Diri dengan HTML</title>
 </head>
 <body> 
 <h1 align="center">BIODATA DIRI</h1>
@@ -40,7 +39,7 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 <tr>
 <td>Nama</td>
 <td>Isrezal Akbar</td>
-<td rowspan="7"><img src="riski.jpeg" width="200"></td>
+<td rowspan="7"><img src="[riski.jpeg](https://cdn.unp.ac.id/portal/23343041.jpg)" width="200"></td>
 </tr>
 <tr>
 <td>Tempat/Tanggal Lahir</td>
