@@ -22,3 +22,45 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 [![](https://visitcount.itsvg.in/api?id=IsrezalAkbar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cara Membuat Tabel Biodata Diri dengan HTML</title>
+</head>
+<body> 
+<h1 align="center">BIODATA DIRI</h1>
+<table border="1" cellspacing="0" cellpadding="5" align="center" width="800">
+<tr align="center" bgcolor="#1fe5d5">
+<td width="200">DATA DIRI</td>
+<td width="400">KETERANGAN</td>
+<td width="200">FOTO</td>
+</tr>
+<tr>
+<td>Nama</td>
+<td>Isrezal Akbar</td>
+<td rowspan="7"><img src="riski.jpeg" width="200"></td>
+</tr>
+<tr>
+<td>Tempat/Tanggal Lahir</td>
+<td>padang, 29 september 2004</td> 
+</tr>
+<tr>
+<td>Alamat</td>
+<td>padang, sumatera barat</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>Pekerjaan</td>
+<td>Mahasiswa</td>
+</tr>
+<tr>
+<td>Hobi</td>
+<td>Olahraga</td>
+</tr>
+</table>
+</body>
+</html>
+</html>
