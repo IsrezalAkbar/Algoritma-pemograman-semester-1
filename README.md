@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im student of padang state university
+Hi my name is Isrezal Akbar and Im student of padang state university you can call me reza and this is my profile
 
 
 ## 🌐 Socials:
