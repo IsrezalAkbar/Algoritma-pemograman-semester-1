@@ -65,8 +65,7 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 </html>
 
 
-laporan pratikum algoritma pemograman
-pemahaman materi
+# laporan pratikum algoritma pemograman pemahaman materi
 
 # jobsheet 1
 
@@ -97,4 +96,18 @@ Di baris paling awal, terdapat kode #include. Perintah #include digunakan untuk 
 pada jobsheet 3 ini saya mempelajari berbagai macam variabel seperti konstanta, dan integer
 
 variabel
-variabel adalah tempat untuk menyimpan data dan menggunakan istilah untuk memanggil kembali variabel yang sudah dituliskan.
+Inti dari sebuah program komputer adalah menerima input, melakukan pemrosesan, dan menghasilkan output. Nilai input bisa kita dapatkan dari keyboard, file, kamera,mikrofon, dan sebagainya. Sementara output dapat kita tampilkan ke monitor, cetak ke dokumen, atau ke dalam sebuah file. Pada tahap pemrosesan, program membutuhkan bantuan variabel untuk menyimpan nilai sementara. variabel adalah tempat untuk menyimpan data dan menggunakan istilah untuk memanggil kembali variabel yang sudah dituliskan. dan ada juga tipe data, tipe data adalah jenis nilai yang akan tersimpan dalam variabel. pada matematika kita menemukan seperti x dan y
+
+integer
+Ada beberapa aturan penulisan variabel yang harus kamu ketahui: 
+1. Nama variabel tidak boleh didahului dengan simbol dan angka. 
+2. Nama variabel tidak boleh menggunakan kata kunci yang sudah ada 
+pada bahasa C, contoh: if, int, void, dll. 
+3. Nama variabel bersifat case sensitive, artinya huruf besar dan kecil 
+dibedakan, contoh: nama dan Nama adalah dua variabel yang berbeda. 
+4. Disarankan menggunakan underscore untuk nama variabel yang terdiri 
+dari dua suku kata, contoh: nama_lengkap.
+
+dan juga ada beberapa tipe data, ada integer, char, const, float, array, structure, pointer, enum, void. integer untuk tipe data berupa angka,char untuk tipe data berupa huruf atau karakter, float untuk tipe data berupa bilangan pecahan, double serupa dengan float tapi penyimpanan untuk double lebih besar daripada float. tipe ini sangat diperlukan agar bisa membedakan variabel.
+
+# jobsheet 4
