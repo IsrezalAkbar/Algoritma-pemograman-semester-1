@@ -190,3 +190,10 @@ struct
 Structure atau struct adalah kumpulan dari beberapa variabel dengan beragam tipe data yang dibungkus dalam satu varabel. Struct juga dikenal dengan records dalam bahasa pemrograman lain seperti Pascal.
 
 # jobsheet 11
+
+pada jobsheet 11 ini saya mempelajari tentang file handling
+
+file handling
+file handling adalah sebuah cara untuk menyimpan sebuah program yang telah di inputkan oleh pengguna ke file komputer atau laptop pengguna. atau juga bisa untuk menampilkan isi file yang ada di perangkat pengguna
+
+beberapa contoh cara menggunakan file handling r untuk buka dan membaca file di perangkat, rb untuk membaca dalam biner, w untuk buka dan menulis, wb untuk buka dan menulis dalam biner, a untuk buka dan menambahkan, ab untuk buka dan menambahkan dalam biner, dan masih banyak lagi.
