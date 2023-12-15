@@ -124,3 +124,9 @@ operator pembanding dan operator logika
 Operator pembanding adalah operator untuk memabndingkan dua buah nilai. Operator ini juga dikenal dengan operator relasi. Nilai yang dihasilkan dari operasi pembanding akan berupa true dan false. Pada bahasa C, nilai true akan samadengan 1 dan false akan samadengan 0. operator logika adalah untuk menentukan sesuatu itu benar atau salah. beberapa contoh operator logika, && untuk logika AND, || untuk logika OR, dan ! untuk logika kebalikan.
 
 # jobsheet 5
+
+pada jobsheet 5 ini saya mempelajari tentang decision making
+
+decision making
+Bagaimana cara untuk mengubah jalur eksekusi melalui program? C menyediakan sejumlah pernyataan aliran kontrol (juga disebut pernyataan Flow Control), yang merupakan pernyataan yang memungkinkan pemrogram untuk mengubah jalur eksekusi normal melalui program. Istilah lainnya adalah percabangan, struktur kondisi, struktur if, dsb. untuk pengambilan keputusan, c menyediakan beberapa jenis pernyataan seperti if, if else, if else if, switch case, dan juga nested loop.
+
