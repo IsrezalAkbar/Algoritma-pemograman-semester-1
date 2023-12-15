@@ -130,3 +130,6 @@ pada jobsheet 5 ini saya mempelajari tentang decision making
 decision making
 Bagaimana cara untuk mengubah jalur eksekusi melalui program? C menyediakan sejumlah pernyataan aliran kontrol (juga disebut pernyataan Flow Control), yang merupakan pernyataan yang memungkinkan pemrogram untuk mengubah jalur eksekusi normal melalui program. Istilah lainnya adalah percabangan, struktur kondisi, struktur if, dsb. untuk pengambilan keputusan, c menyediakan beberapa jenis pernyataan seperti if, if else, if else if, switch case, dan juga nested loop.
 
+pernyataan if adalah untuk menentukan apakah yang di inputkan user itu sesuai dengan pernyataan if. jika sesuai dengan pernyataan if tersebut maka program akan berjalan lancar, jika tidak sesuai dengan pernyataan if tersebut maka program akan terhenti dan nilai akan kembali ke 0.
+
+dan juga ada if else if nya sesuai dengan pernyataan diatas. dan untuk else pernyataan yang terjadi ketika pernyataan if tidak sesuai dengan yang di inputkan oleh user dan jika tidak sesuai maka else akan bekerja dan program akan terhenti.
