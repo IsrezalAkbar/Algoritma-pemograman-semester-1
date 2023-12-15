@@ -164,7 +164,7 @@ Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu 
 
 Fungsi biasanya akan mengembalikan sebuah nilai dari hasil prosesnya. Karena itu, kita harus menentukan tipe data untuk nilai yang akan dikembalikan. Apabila fungsi tersebut tidak memiliki nilai kembalian, maka kita harus menggunakan tipe void untuk menyatakan kalau fungsi tersebut tidak akan mengembalikan nilai apa-apa.
 
-<b>fungsi rekursif<b>
+fungsi rekursif
 
 Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri. Biasanya kita memanggil fungsi pada fungsi main atau fungsi yang lainnya. Namun, pada fungsi rekursif, fungsi itu akan memanggil dirinya sendiri di dalam tubuh fungsi.
 
@@ -180,3 +180,13 @@ Alamat memori yang digunakan sebagai referensi pada pointer akan sama dengan ala
 Jika kita bisa menggunakan variabel biasa, ngapain pakai pointer? Penggunaan pointer sebenarnya opsional, kamu boleh pakai. boleh juga tidak. Namun. Pada kondisi tertentu, penggunaan pointer lebih optimal.  Kapan harus menggunakan pointer? kita tidak harus selalu menggunakan pointer dalam program. Namun, ada beberapa kasus tertentu yang menyarankan menggunakan pointer daripada cara biasa. Karena terbukti, dengan pointer performa program akan lebih optimal.
 
 # jobsheet 10
+
+pada jobsheet 10 ini saya mempelajari tentang enum dan struct
+
+enum
+Enum atau Enumeration merupakan tipe data yang berisi sekumpulan konstanta. Enum termasuk dalam tipe data bentukan, karena tipe data ini dibuat sendiri oleh kita. Mengapa Membutuhkan Enum? Karena enum akan memberikan efisiensi dan fleksibilitas dalam penggunaan memori. Variabel enum hanya akan mengambil satu nilai dari konstanta yang ada.
+
+struct
+Structure atau struct adalah kumpulan dari beberapa variabel dengan beragam tipe data yang dibungkus dalam satu varabel. Struct juga dikenal dengan records dalam bahasa pemrograman lain seperti Pascal.
+
+# jobsheet 11
