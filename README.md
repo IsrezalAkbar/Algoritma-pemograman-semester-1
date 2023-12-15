@@ -165,6 +165,7 @@ Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu 
 Fungsi biasanya akan mengembalikan sebuah nilai dari hasil prosesnya. Karena itu, kita harus menentukan tipe data untuk nilai yang akan dikembalikan. Apabila fungsi tersebut tidak memiliki nilai kembalian, maka kita harus menggunakan tipe void untuk menyatakan kalau fungsi tersebut tidak akan mengembalikan nilai apa-apa.
 
 <b>funsi rekursif<b>
+
 Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri. Biasanya kita memanggil fungsi pada fungsi main atau fungsi yang lainnya. Namun, pada fungsi rekursif, fungsi itu akan memanggil dirinya sendiri di dalam tubuh fungsi.
 
 # jobsheet 9
