@@ -12,35 +12,42 @@ struct tanggal {
     int tahun;
 };
 
-char* getZodiac(struct tanggal tanggallahir) {
-    char* zodiak[] = {"CAPRICORN", "AQUARIUS", "PISCES", "ARIES", "TAURUS", "GEMINI", "CANCER", "LEO", "VIRGO", "LIBRA", "SCORPIO", "SAGITTARIUS"};
-    
-    struct tanggal tanggalzodiak[] = {{22, 12, 0}, {20, 1, 0}, {19, 2, 0}, {21, 3, 0}, {20, 4, 0}, {21, 5, 0}, {21, 6, 0}, {23, 7, 0}, {23, 8, 0}, {23, 9, 0}, {23, 10, 0}, {22, 11, 0}};
-    
-    for (int i = 0; i < 12; ++i) {
-        if ((tanggallahir.bulan == tanggalzodiak[i].bulan && tanggallahir.hari >= tanggalzodiak[i].hari) || tanggallahir.bulan > tanggalzodiak[i].bulan) {
-            return zodiak[i];
-        }
+char* menentukanzodiak(struct tanggal tanggallahir) {
+    if ((tanggallahir.bulan == 3 && tanggallahir.hari >= 21) || (tanggallahir.bulan == 4 && tanggallahir.hari <= 19)) {
+        return "Aries";
+    } else if ((tanggallahir.bulan == 4 && tanggallahir.hari >= 20) || (tanggallahir.bulan == 5 && tanggallahir.hari <= 20)) {
+        return "Taurus";
+    } else if ((tanggallahir.bulan == 5 && tanggallahir.hari >= 21) || (tanggallahir.bulan == 6 && tanggallahir.hari <= 20)) {
+        return "Gemini";
+    } else if ((tanggallahir.bulan == 6 && tanggallahir.hari >= 21) || (tanggallahir.bulan == 7 && tanggallahir.hari <= 22)) {
+        return "Cancer";
+    } else if ((tanggallahir.bulan == 7 && tanggallahir.hari >= 23) || (tanggallahir.bulan == 8 && tanggallahir.hari <= 22)) {
+        return "Leo";
+    } else if ((tanggallahir.bulan == 8 && tanggallahir.hari >= 23) || (tanggallahir.bulan == 9 && tanggallahir.hari <= 22)) {
+        return "Virgo";
+    } else if ((tanggallahir.bulan == 9 && tanggallahir.hari >= 23) || (tanggallahir.bulan == 10 && tanggallahir.hari <= 22)) {
+        return "Libra";
+    } else if ((tanggallahir.bulan == 10 && tanggallahir.hari >= 23) || (tanggallahir.bulan == 11 && tanggallahir.hari <= 21)) {
+        return "Scorpio";
+    } else if ((tanggallahir.bulan == 11 && tanggallahir.hari >= 22) || (tanggallahir.bulan == 12 && tanggallahir.hari <= 21)) {
+        return "Sagittarius";
+    } else if ((tanggallahir.bulan == 12 && tanggallahir.hari >= 22) || (tanggallahir.bulan == 1 && tanggallahir.hari <= 19)) {
+        return "Capricorn";
+    } else if ((tanggallahir.bulan == 1 && tanggallahir.hari >= 20) || (tanggallahir.bulan == 2 && tanggallahir.hari <= 18)) {
+        return "Aquarius";
+    } else {
+        return "Pisces";
     }
-    
-    return NULL;
 }
 
 int main() {
     struct tanggal tanggallahir;
 
-    printf("Masukkan tanggal lahir [tgl-bln-tahun]: ");
-    scanf("%d-%d-%d", &tanggallahir.hari, &tanggallahir.bulan, &tanggallahir.tahun);
+    printf("Masukkan tanggal lahir (tgl bln thn): ");
+    scanf("%d %d %d", &tanggallahir.hari, &tanggallahir.bulan, &tanggallahir.tahun);
 
-    printf("Tanggal Lahir Anda [tgl-bln-tahun] : %02d-%02d-%04d\n", tanggallahir.hari, tanggallahir.bulan, tanggallahir.tahun);
-
-    char* zodiak = getZodiac(tanggallahir);
-
-    if (zodiak != NULL) {
-        printf("Zodiak Anda adalah : %s\n", zodiak);
-    } else {
-        printf("Tanggal lahir tidak valid.\n");
-    }
+    char* zodiak = menentukanzodiak(tanggallahir);
+    printf("Zodiak Anda adalah: %s\n", zodiak);
 
     return 0;
 }
