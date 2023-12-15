@@ -111,3 +111,16 @@ dari dua suku kata, contoh: nama_lengkap.
 dan juga ada beberapa tipe data, ada integer, char, const, float, array, structure, pointer, enum, void. integer untuk tipe data berupa angka,char untuk tipe data berupa huruf atau karakter, float untuk tipe data berupa bilangan pecahan, double serupa dengan float tapi penyimpanan untuk double lebih besar daripada float. tipe ini sangat diperlukan agar bisa membedakan variabel.
 
 # jobsheet 4
+
+pada jobsheet 4 ini saya mempelajari tentang operator dalam bahasa c
+
+operator
+Operator adalah sebuah simbol. Simbol yang digunakan untuk melakukan operasi tertentu. Misalnya: Kita ingin menjumlahkan nilai dari variabel x dan y, maka kita bisa menggunakan operator penjumlahan (+).Operand adalah nilai asal yang dipakai dalam sebuah proses operasi. Sedangkan Operator adalah instruksi yang diberikan untuk mendapatkan hasil dari proses tersebut. operator terbagi beberapa jenis, operator aritmatika, operator penugasan, operator pembanding, dan juga operator logika
+
+operator aritmatika dan operator penugasan
+operator aritmatika adalah adalah operator yang digunakan untuk operasi matematika. beberapa simbol operator aritmatika adalah seperti, + untuk operasi penambahan, - untuk untuk pengurangan, / untuk operasi pembagian, * untuk operasi perkalian. Operator penugasan (Assignment Operator) merupakan operator untuk memberikan tugas pada variabel. Biasanya untuk mengisi nilai.
+
+operator pembanding dan operator logika
+Operator pembanding adalah operator untuk memabndingkan dua buah nilai. Operator ini juga dikenal dengan operator relasi. Nilai yang dihasilkan dari operasi pembanding akan berupa true dan false. Pada bahasa C, nilai true akan samadengan 1 dan false akan samadengan 0. operator logika adalah untuk menentukan sesuatu itu benar atau salah. beberapa contoh operator logika, && untuk logika AND, || untuk logika OR, dan ! untuk logika kebalikan.
+
+# jobsheet 5
