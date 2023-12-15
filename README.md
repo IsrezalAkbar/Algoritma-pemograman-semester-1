@@ -148,3 +148,13 @@ Perulangan while merupakan perulangan yang termasuk dalam perulangan uncounted l
 
 # jobsheet 7
 
+di jobsheet 7 ini saya mempelajari tentang array
+
+Array merupakan struktur data yang digunakan untuk menyimpan sekumpulan data dalam satu tempat, array ini juga disebut dengan istilah larik. Setiap data dalam Array memiliki indeks, sehingga kita akan mudah memprosesnya seperti mengakses atau mengganti datanya.
+
+jika kita ingin menyimpan data 10 maka array akan menyimpan data dari 0, maka data yang terbaca adalah 0,1,2,3,4,5,6,7,8,9. maka dari itu jika ingin menyimpan data dalam array maka biasanya akan berformat seperti i+1.
+
+dan array juga ada yang array 1 dimensi, 2 dimensi, dan juga ada yang 3 dimensi. pada array 1 dimensi biasanya formatnya tertulis seperti ini "[i]", pada array 2 dimensi tertulis seperti ini "[i][j]", dan pada array 3 dimensi sama seperti sebelumnya tapi kurung sikunya menjadi tiga seperti ini "[i][j][k]"
+
+# jobhseet 8
+
