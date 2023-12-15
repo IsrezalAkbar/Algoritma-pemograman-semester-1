@@ -158,3 +158,13 @@ dan array juga ada yang array 1 dimensi, 2 dimensi, dan juga ada yang 3 dimensi.
 
 # jobhseet 8
 
+pada josheet 8 ini saya mempelajari tentanf fungsi dan prosedur
+
+Fungsi adalah sub-program yang bisa digunakan kembali baik di dalam program itu sendiri, maupun di program yang lain. Contoh fungsi yang sering kita buat adalah fungsi main(). Fungsi ini memang wajib ada di setiap program C karena akan dieksekusi pertama kali.
+
+Fungsi biasanya akan mengembalikan sebuah nilai dari hasil prosesnya. Karena itu, kita harus menentukan tipe data untuk nilai yang akan dikembalikan. Apabila fungsi tersebut tidak memiliki nilai kembalian, maka kita harus menggunakan tipe void untuk menyatakan kalau fungsi tersebut tidak akan mengembalikan nilai apa-apa.
+
+<b>funsi rekursif<b>
+Fungsi rekursif adalah fungsi yang memanggil dirinya sendiri. Biasanya kita memanggil fungsi pada fungsi main atau fungsi yang lainnya. Namun, pada fungsi rekursif, fungsi itu akan memanggil dirinya sendiri di dalam tubuh fungsi.
+
+# jobsheet 9
