@@ -64,8 +64,8 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 </html>
 </html>
 
-
 # laporan pratikum algoritma pemograman pemahaman materi
+
 
 # jobsheet 1
 
