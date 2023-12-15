@@ -128,8 +128,23 @@ Operator pembanding adalah operator untuk memabndingkan dua buah nilai. Operator
 pada jobsheet 5 ini saya mempelajari tentang decision making
 
 decision making
-Bagaimana cara untuk mengubah jalur eksekusi melalui program? C menyediakan sejumlah pernyataan aliran kontrol (juga disebut pernyataan Flow Control), yang merupakan pernyataan yang memungkinkan pemrogram untuk mengubah jalur eksekusi normal melalui program. Istilah lainnya adalah percabangan, struktur kondisi, struktur if, dsb. untuk pengambilan keputusan, c menyediakan beberapa jenis pernyataan seperti if, if else, if else if, switch case, dan juga nested loop.
+Bagaimana cara untuk mengubah jalur eksekusi melalui program? C menyediakan sejumlah pernyataan aliran kontrol (juga disebut pernyataan Flow Control), yang merupakan pernyataan yang memungkinkan pemrogram untuk mengubah jalur eksekusi normal melalui program. Istilah lainnya adalah percabangan, struktur kondisi, struktur if, dsb. untuk pengambilan keputusan, c menyediakan beberapa jenis pernyataan seperti if, if else, if else if, switch case.
 
 pernyataan if adalah untuk menentukan apakah yang di inputkan user itu sesuai dengan pernyataan if. jika sesuai dengan pernyataan if tersebut maka program akan berjalan lancar, jika tidak sesuai dengan pernyataan if tersebut maka program akan terhenti dan nilai akan kembali ke 0.
 
 dan juga ada if else if nya sesuai dengan pernyataan diatas. dan untuk else pernyataan yang terjadi ketika pernyataan if tidak sesuai dengan yang di inputkan oleh user dan jika tidak sesuai maka else akan bekerja dan program akan terhenti.
+
+# jobsheet 6
+
+di jobsheet 6 ini saya mempelajari tentang lopping atau perulangan
+
+Loop adalah konstruksi aliran kontrol yang memungkinkan sepotong kode untuk dieksekusi secara berulang kali hingga beberapa kondisi terpenuhi. Loop ini memberikan kemudahan dalam pemrograman Anda, karena memungkinkan Anda melakukan banyak hal secara berulang tapi dengan program yang ringkas. Misalnya, Anda ingin mencetak semua angka antara 1 hingga 10. Tanpa loop, mungkin Anda akan membuat program dengan banyak printf sampai 10 baris program bahkan lebih. ada beberapa jenis perulangan yaitu for, while, do while, dan nested loop
+
+for dan nested loop
+Di dalam blok perulangan, kita juga dapat membuat perulangan. Ini disebut dengan nested loop atau perulangan bersarang atau perulangan di dalam perualangan. Perulangan for merupakan perulangan yang termasuk dalam couted loop, karena sudah jelas berapa kali ia akan mengulang. seperti kita bisa menggunakan perulangan for sampai sebanyak yang kita mau.
+
+while dan do while
+Perulangan while merupakan perulangan yang termasuk dalam perulangan uncounted loop. Perulangan while juga dapat menjadi perulangan yang counted loop dengan memberikan counter di dalamnya. Perulangan do while sama seperti perulangan while. Perbedaanya: Perulangan do while akan melakukan perulangan sebanyak 1 kali terlebih dahulu, lalu mengecek kondisi yang ada di dalam kurung while. 
+
+# jobsheet 7
+
