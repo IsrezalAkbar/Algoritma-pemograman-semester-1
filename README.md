@@ -39,7 +39,7 @@ Hi my name is Isrezal Akbar and Im student of padang state university you can ca
 <tr>
 <td>Nama</td>
 <td>Isrezal Akbar</td>
-<td rowspan="7"><img src="<https://avatars.githubusercontent.com/u/145579545?v=4>" width="200"></td>
+<td rowspan="7"><img src="(https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/logo_Universitas-Negeri-Padang-thumb.png)" width="200"></td>
 </tr>
 <tr>
 <td>Tempat/Tanggal Lahir</td>
